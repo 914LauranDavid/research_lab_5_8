@@ -15,4 +15,9 @@ cognitive bias, social bias, economic bias, cultural bias, gender bias (non-exha
 
 biases with partisan purpose: corporate-, religious-, ethnic-, social class-, racial- etc.
 
-TODO study the particularities sugested by gpt, and search papers that support/disapprove gpt's claims 
+
+papers:
+cognitive bias: A Neural Network Framework for Cognitive Bias (Korteling et al.) (https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01561/full)
+gender bias: Multi-Dimensional Gender Bias Classification (Dinan et al.) (https://arxiv.org/abs/2005.00614)
+cultural, gender bias: https://webthesis.biblio.polito.it/26842/
+media bias: One Bias Fits All? Three Types of Media Bias and Their Effects on Party Preferences (Eberl et al.) (https://journals.sagepub.com/doi/abs/10.1177/0093650215614364)
