@@ -15,6 +15,16 @@ cognitive bias, social bias, economic bias, cultural bias, gender bias (non-exha
 
 biases with partisan purpose: corporate-, religious-, ethnic-, social class-, racial- etc.
 
+Political bias vs. social bias
+------------------------------
+"On the Detection of Political and Social Bias", Sánchez-Junquera:
+political bias detection involves detecting the emotional tone (e.g. left-wing-biased texts refer to right-wing leaders in a negative way). 
+social bias (here: immigrant stereotypes) is more subtle and requires a deeper understanding of the context (e.g.: whether texts on immigrants contains the phrases "problem," "unemployment," or "people," "we need to give a soluton")
+
+
+
+
+- DeepNews. AI: Detecting Political Bias, Zhao: deep learning ... new cutting-edge of political sentiment analysis; CNNs are another ... 
 
 papers:
 cognitive bias: A Neural Network Framework for Cognitive Bias (Korteling et al.) (https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01561/full)
