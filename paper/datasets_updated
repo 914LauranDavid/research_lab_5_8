@@ -1,1 +1,18 @@
+output: left/right/non-biased (if it doesn't work, switch to binary)
+
 hyperpartisan news articles: A Stylometric Inquiry into Hyperpartisan and Fake News, Potthast et al.
+
+
+1. Lean-left and lean-right newspapers dataset
+- choose newspapers from allsides
+- train dataset: extract articles on Obama vs. Romney (2012), and Clinton vs. Trump (2016)
+- test dataset: Trump vs Biden (2020)
+
+2. Left and right newspapers dataset
+same
+
+3. extended newb
+- extract sentences about H. Clinton/Harris
+- keep the size of the data similar to the other datasets (200k is too much?)
+
+
