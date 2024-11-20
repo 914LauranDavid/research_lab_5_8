@@ -16,3 +16,33 @@ same
 - keep the size of the data similar to the other datasets (200k is too much?)
 
 
+
+10 GETTING DATA
+-------------------------------------------
+10.1 SEARCH TERMS
+1.Trump v Biden:
+search:
+donald trump 2020 elections
+donald trump presidential candidate 2020
+joe biden 2020 elections
+joe biden 2020 presidential rally
+
+1.Trump v Clinton:
+search:
+donald trump 2016 elections
+donald trump 2016 presidential rally
+hillary clinton 2016 elections
+hillary clinton presidential rally
+
+1.Obama v Romney:
+search:
+barack obama 2012 elections
+barack obama rally 2012
+mitt romney 2012 elections
+mitt romney presidential rally
+
+10.2 Extracting texts from an article
+- look for the names of the candidates
+- take the sentence in which the name appear plus a few sentences before and after it
+
+
