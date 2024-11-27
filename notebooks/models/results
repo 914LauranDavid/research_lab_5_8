@@ -1,0 +1,13 @@
+3 classes
+-----------------
+simple bert after 1 epoch: 
+Epoch 	Training Loss 	Validation Loss 	Accuracy 	Precision 	Recall 	Macro F1
+1 	0.881900 	0.855144 	0.626316 	0.688457 	0.624669 	0.600188
+
+abc
+
+
+
+notes:
+- training kept crashing, especially for bert+lstm
+
