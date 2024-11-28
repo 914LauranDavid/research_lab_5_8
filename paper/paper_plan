@@ -1,0 +1,71 @@
+de avut in vedere:
+- sa am ce se cere in cerinta
+- sa includ ce aveam in tema precedenta
+- sa includ tot ce am facut tema aceasta (vz. toate fisierele din repo)
+- sa includ tot ce am facut practic (Datasets, cod etc.)
+
+- grafice, tabele
+- cod in paper?
+- citations (see TODOs)
+
+
+
+Modelarea partii experimentale (capitol)
+----------------------------------------
+- what data
+- what experiments
+- how we validate the results
+- what to compare the results with, in order to see our model is better than existing ones
+- math model for the experiments
+
+3 Modelarea partii experimentale
+3.1 Datasets
+copy from old hw; add what I wrote down (search all files in the repo) and what I did
+3.2 Models
+the 3 models + what parameters to use for bert
+3.2 Experiments
+run all models; try many combinations of parameters;
+3.3 Evaluation metrics
+3.4 Comparisons
+what we compare with; on what data, with what adjustments (e.g. binarisation of my models' output); 
+3.5 Math model
+
+
+
+Case study (capitol)
+---------------------
+- creare/colectare de date
+- implementare cod
+- validare/colectare de date care arata eficienta abordării propuse (metrici, evidente empirice)
+
+4 Case study
+4.1 Creating the left-right dataset
+scraping; making 1 dataset with equal no. from each leaning;
+4.2 Writing the models
+technologies, environments, libraries; parameters; 
+4.3 Results
+4.3.1 Metrics of each model
+(4.3.2 Concrete examples (maybe the small ones at the end of the notebooks))
+(4.3.2 Comparison with others)
+
+
+
+Related work (capitol)
+----------------------
+- others' approaches
+- differences, similarities between me and others
+- what metrics I expect to obtain better
+- pregatirea validarii pe set de date folosit si de altii in articole
+
+5 Related Work
+5.1 Survey of others' approaches
+5.2 Differences, similarities
+5.3 Metrics I expect to improve - presidential elections, if not political media in general.
+5.4 Preparing to validate on dataset used by others - semeval
+
+
+
+
+Git (capitol?)
+-------------------
+

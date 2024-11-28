@@ -1,5 +1,3 @@
-3 classes
------------------
 simple bert:
 2 epochs, batch size=8, lr=5e-5:
 Training Loss 	Validation Loss    Accuracy 	Precision 	Recall 		Macro F1
@@ -21,6 +19,9 @@ Accuracy: 0.8737, Precision: 0.9081, Recall: 0.8737, F1: 0.8732
 4 epochs, batch size=16, lr=3e-5:
 Accuracy: 0.9053, Precision: 0.9079, Recall: 0.9053, F1: 0.9054
 
+
+comparison with dbias, on my dataset (after binarising my model):
+mine=0.9052631578947369 theirs=0.7473684210526316
 
 notes:
 - training kept crashing, especially for bert+lstm
