@@ -1,11 +1,25 @@
 3 classes
 -----------------
-simple bert after 1 epoch: 
-Epoch 	Training Loss 	Validation Loss 	Accuracy 	Precision 	Recall 	Macro F1
-1 	0.881900 	0.855144 	0.626316 	0.688457 	0.624669 	0.600188
+simple bert:
+2 epochs, batch size=8, lr=5e-5:
+Training Loss 	Validation Loss    Accuracy 	Precision 	Recall 		Macro F1
+0.898900 	0.874085 	   0.710526 	0.735748 	0.710317 	0.715919
+3 epochs, batch size=8, lr=3e-5:
+Training Loss 	Validation Loss    Accuracy 	Precision 	Recall 		Macro F1
+0.565400 	0.594356 	   0.742105 	0.772804 	0.740906 	0.736890
 
-abc
 
+bert+lstm:
+3 epochs, batch size=16, lr=5e-5:
+{'accuracy': 0.7894736842105263, 'precision': 0.8316173316173318, 'recall': 0.8012892539313277, 'macro_f1': 0.7752142260412938}
+4 epochs, batch size=32, lr=5e-5:
+{'accuracy': 0.8736842105263158, 'precision': 0.8953378436984994, 'recall': 0.8688023231891627, 'macro_f1': 0.8735906142527535}
+
+bert+cnn+bilstm:
+4 epochs, batch size=16, lr=5e-5:
+Accuracy: 0.8737, Precision: 0.9081, Recall: 0.8737, F1: 0.8732
+4 epochs, batch size=16, lr=3e-5:
+Accuracy: 0.9053, Precision: 0.9079, Recall: 0.9053, F1: 0.9054
 
 
 notes:
